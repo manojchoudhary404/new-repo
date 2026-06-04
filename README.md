@@ -1,3 +1,3 @@
 # new-repo
 get started
-this my demo project repo
+this is my demo project repo
