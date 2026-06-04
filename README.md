@@ -1,3 +1,3 @@
 # new-repository
-get started
+This project gonna be on project workflow
 this is my demo project repo
